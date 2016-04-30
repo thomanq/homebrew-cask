@@ -1,6 +1,6 @@
 cask 'pons-dictionary-ru-de-concise' do
   version '7.7'
-  sha256 :no_check
+  sha256 'f37d0408810537110a00da36fb6c3e13d662760664de43acc596f10f5aca522b'
 
   url 'http://dl.penreader.com/mac/pons/7_7/PONS_Dictionary_Russian_German_CONCISE.dmg'
   name 'PONS Dictionary Russian German CONCISE'
