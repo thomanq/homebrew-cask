@@ -1,6 +1,6 @@
 cask 'pons-dictionary-pl-de-concise' do
   version '7.7'
-  sha256 :no_check
+  sha256 '7e8f05fe0a25afb719d7828d7b182b9f79fbe64f5baf200cb6df7fefcd62e69a'
 
   url 'http://dl.penreader.com/mac/pons/7_7/PONS_Dictionary_Polish_German_CONCISE.dmg'
   name 'PONS Dictionary Polish German CONCISE'
